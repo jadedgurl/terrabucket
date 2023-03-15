@@ -1,4 +1,4 @@
 default pool = number of nodes = 4  
 automation = true
 
-created rep. --> added files in folder --> commit --> publish on public
+created rep. --> added files in folder --> commit --> publish on public --> push origin
