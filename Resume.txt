@@ -1,0 +1,26 @@
+College Experience: Montreal College of Internet Technology
+
+Experience with Softwares such as:
+
+Terraform - using Terraform to deploy tasks and manage applications
+
+Google Cloud Storage - Used GC to store files using the buckets and able to make them accessible to either private or public sharing as well as organizing them into projects.
+Including on creating a SQL database efficiently with instances. 
+
+Google Cloud Network - Knowledge on creating firewalls, VPC, VMs and firestore to make networks and connect these networks to databases.
+
+Cloud Shell - Able to do multiple commands such as creating projects, creating a VPC, VM, subnets and datatables. 
+
+Google Cloud Compute Engine - Able to effectively create Virtual Machine Instances and running them using the App Engine.
+
+Subnetting - Able to effectively create subnets for networks using the cloud shell and using the VPC network to do so. 
+
+Other:
+- Experience in the use of github and GIT commands, GIT repisotory as well as Linux commands.
+- Experience in BigQuery in organizing data and to create, manage, share query data either in Native mode or Datastore mode.
+- Running kubernates to build and manage container-based applicatons.
+- Firestore experience to build for automatic scaling, high performance and ease of application development.
+
+Github Account: https://github.com/jadedgurl/mcit2023
+
+Contact me: jade.nacef@gmail.com
