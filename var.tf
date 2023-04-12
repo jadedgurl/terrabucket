@@ -8,8 +8,6 @@ variable "bucket_name" {
   type        = list(string)
   default     = [
     "my-test-bucket-latest899",
-    "mytestbucket888",
-    "montrealcollege-92721-for-demo",
     "bucket-full-of-happines"
 
   ]
