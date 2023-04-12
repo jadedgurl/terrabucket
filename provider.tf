@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project     = "mtl2023-381501"
+  project     = "testing2000"
   region      = "us-central1"
 }
 
