@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "The ID of the GCP project."
-  default     = "mtl2023-381501"
+  default     = "testing2000"
 }
 
 variable "bucket_name" {
